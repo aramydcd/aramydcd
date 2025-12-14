@@ -2,7 +2,8 @@
 -------------------------------------------------
 Backend Developer | AI/ML Enthusiast | Problem Solver
 ------------------------------------------------------
-Welcome to my GitHub! I’m a passionate Python Backend Developer and AI/ML Enthusiast, recently completing my ND II in Computer Science. I enjoy building real-world systems, exploring machine learning, and contributing to impactful solutions.
+Welcome to my GitHub! 
+I’m a passionate Python Backend Developer and AI/ML Enthusiast, recently completing my ND in Computer Science. I enjoy building real-world systems, exploring machine learning, and contributing to impactful solutions.
 ----------------------------------------------------
 🚀 About Me
 -------------------------------------------
@@ -10,7 +11,7 @@ Welcome to my GitHub! I’m a passionate Python Backend Developer and AI/ML Enth
 
 🤖 I explore machine learning algorithms and predictive models
 
-🎓 ND II Computer Science graduate
+🎓 ND Computer Science graduate
 
 👨‍💻 Actively seeking Backend Engineering or AI/ML Internship opportunities
 
@@ -21,6 +22,8 @@ Welcome to my GitHub! I’m a passionate Python Backend Developer and AI/ML Enth
 Languages:
 ---------------
 🔹 Python
+🔹 Java
+🔹 VB .NET
 🔹 JavaScript
 🔹 HTML & CSS
 ---------------
@@ -28,23 +31,19 @@ Backend & Frameworks:
 --------------------
 🔹 Django
 🔹 Django REST Framework
-------------------
-Machine Learning:
---------------------
-🔹 scikit-learn
-🔹 Pandas
-🔹 NumPy
+
 ---------------
 Databases:
 ---------------
 🔹 SQLite
-🔹 PostgreSQL
+🔹 SQL
 ---------------
 Tools:
 ----------------
 🔹 Git & GitHub
 🔹 VS Code
-🔹 Postman
+🔹 Visual Studio Code
+🔹 NetBeans
 ------------------------
 📌 Featured Projects
 --------------------------
@@ -61,26 +60,7 @@ Academic/student management systems
 Django-based dashboards & admin tools
 
 REST APIs with CRUD operations
-------------------------------
 
-🔷 AI/ML Projects
-
-Classification models
-
-Regression models
-
-Predictive analytics
-
-Data preprocessing and evaluation
-------------------------------
-
-🔷 Full-stack & Utilities
-
-Clean UI pages with Bootstrap
-
-Small automation tools
-
-Useful Python scripts
 --------------------------------
 📊 GitHub Stats
 
@@ -94,7 +74,7 @@ Email: abdulakeem606@gmail.com
 
 GitHub: https://github.com/aramydcd
 
-Website: https://personal-site1-nu.vercel.app
+Website: https://aramydcd.github.io
 
 ⭐ Thanks for Visiting!
 
