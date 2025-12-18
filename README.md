@@ -1,13 +1,15 @@
 🌟 Hi, I'm Abdulakeem Abdulazeez Aramide
 -------------------------------------------------
-Backend Developer | AI/ML Enthusiast | Problem Solver
+Full Stack Developer |Backend Developer | AI/ML Enthusiast | Problem Solver
 ------------------------------------------------------
 Welcome to my GitHub! 
-I’m a passionate Python Backend Developer and AI/ML Enthusiast, recently completing my ND in Computer Science. I enjoy building real-world systems, exploring machine learning, and contributing to impactful solutions.
+I’m a passionate Full Stack, Python Backend Developer and AI/ML Enthusiast, recently completing my ND in Computer Science. I enjoy building real-world systems, exploring machine learning, and contributing to impactful solutions.
 ----------------------------------------------------
 🚀 About Me
 -------------------------------------------
 🔭 I build backend systems using Python, Django, and REST APIs
+
+🔭 I build full stack systems using Django and Bootstrap
 
 🤖 I explore machine learning algorithms and predictive models
 
@@ -31,6 +33,7 @@ Backend & Frameworks:
 --------------------
 🔹 Django
 🔹 Django REST Framework
+🔹 Bootstrap
 
 ---------------
 Databases:
